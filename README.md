@@ -1,7 +1,7 @@
 # Bluto
 A native android Bluetooth application in Java
 
-#Features
+# Features
 - Request and access the permisions.
 - Start discover new Bluetooth devices.
 - Get the list of paired devices.
