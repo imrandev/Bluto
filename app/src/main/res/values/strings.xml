@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bluto</string>
+    <string name="connect">Connect</string>
+    <string name="default_device_text">no name</string>
+    <string name="start_server">Start Server</string>
+    <string name="scanned_devices">Scanned Devices</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="stop_server">Stop Server</string>
+</resources>
